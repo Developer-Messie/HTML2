@@ -55,19 +55,13 @@ ul {
 }
 
 li {
-  /* display: flex; */
   justify-content: center;
   text-align: center;
-  /* margin-bottom: 5%; */
   width: 15%;
-  /* background-color: yellow; */
   border-right-style: groove;
-  /* border-color: red; */
   background-color: #eaead0;
   border-style: inset;
   border-end-start-radius: 20px;
-  /* border-width: 10px; */
-  /* margin: 0 auto; */
 }
 
 .pic {
@@ -115,10 +109,4 @@ strong {
 #footer a {
   text-decoration: none;
   color: white;
-  /* background-color: #955c50; */
-  /* display: flex; */
-  /* align-items: center; */
-  /* text-align: center; */
-  /* padding: 7px; */
-  /* margin: 0 auto; */
 }
